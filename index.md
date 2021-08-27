@@ -15,8 +15,10 @@ Syntax highlighted code block
 ## CS 193 website
 ### Enjoy.
 
-- Bulleted
-- List
+- My favorite foods:
+- Pizza
+- Pasta
+- Burritos
 
 1. Amogh Chaturvedi
 2. That's my name
