@@ -19,7 +19,7 @@ Syntax highlighted code block
 - My favorite things about CS 193:
 - No exams
 - Chill class
-- 
+- Fun stuff during class
 
 1. Amogh Chaturvedi
 2. That's my name
