@@ -11,14 +11,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Welcome to my website!
-## CS 193 website
+
+# Amogh's CS 193 Homework
+## Welcome to my website!
 ### Enjoy.
 
-- My favorite foods:
-- Pizza
-- Pasta
-- Burritos
+- My favorite things about CS 193:
+- No exams
+- Chill class
+- 
 
 1. Amogh Chaturvedi
 2. That's my name
