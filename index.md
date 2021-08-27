@@ -12,17 +12,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 
-# Amogh's CS 193 Homework
-## Welcome to my website!
-### Enjoy.
-
-- My favorite things about CS 193:
-- No exams
-- Chill class
-- Fun stuff during class
-
-1. Amogh Chaturvedi
-2. That's my name
 
 **Bold** and _Italic_ and `Code` text
 
@@ -38,3 +27,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+# Amogh's CS 193 Homework
+## Welcome to my website!
+### Enjoy.
+
+- My favorite things about CS 193:
+- No exams
+- Chill class
+- Fun stuff during class
+
+1. Amogh Chaturvedi
+2. That's my name
